@@ -1,2 +1,36 @@
-# ESE_DR2_TP3
-Repositório criado para a entrega do TP3 da disciplina Design Patterns e Domain-Driven Design (DDD) com Java do Instituto Infnet.
+# Projeto Pet Friends
+
+
+
+
+
+### Lista de Bounded Contexts
+
+
+
+
+
+
+
+### Mapa de Contexto (com relacionamentos)
+
+
+
+
+
+
+
+### Classificação de Subdomínios (e justificativas)
+
+
+
+
+
+
+
+### Lista de Estratégias envolvendo o contexto de Veterinário
+
+
+
+
+
