@@ -41,6 +41,7 @@
 * Pacote -> Core.
 * Correio -> Generic.
 
+Arguição: os subdomínios core fazem parte do modelo de negócio principal de Pet Friends, e estão conectados aos contextos de produtos e agendamentos (o que a empresa oferece de diferencial). As lojas físicas são essenciais para a operação, mas não são o diferencial, portanto são suporte para os core. Os subdomínios de Lojas e Correios são genéricos, por fazerem parte de contextos externos dentro do domínio. 
 
 
 ### Lista de Estratégias envolvendo o contexto de Veterinário
