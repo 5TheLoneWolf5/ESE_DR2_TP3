@@ -32,7 +32,7 @@
 
 
 
-<img width="822" height="818" alt="pet_friends_context_map_v2" src="https://github.com/user-attachments/assets/81a2e937-0b94-4d24-b7b8-14a7372f113b" />
+<img width="1018" height="962" alt="pet_friends_context_map_v2" src="https://github.com/user-attachments/assets/82a7c589-ceef-4906-9fde-a5789cce18e3" />
 
 
 ### Classificação de Subdomínios (e justificativas)
